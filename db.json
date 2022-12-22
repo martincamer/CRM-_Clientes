@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "Martin",
+      "empresa": "PRS aberturas ",
+      "email": "martincamer011@gmail.com",
+      "telefono": "3462 693961",
+      "notas": "Aberturas",
+      "id": 1
+    }
+  ]
+}
